@@ -1,4 +1,4 @@
-## Stsiapan Sikorsky Java Backend Developer   
+## Stsiapan Sikorsky Java Software Engineer | AI Engineer
 
 ## 🛠️ Technology
 <div>
