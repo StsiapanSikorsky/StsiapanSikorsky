@@ -1,4 +1,5 @@
-## Stsiapan Sikorsky Java Software Engineer | AI Engineer
+## Stsiapan Sikorsky
+## Java Software Engineer | Beginer AI Engineer
 
 ## 🛠️ Technology
 <div>
